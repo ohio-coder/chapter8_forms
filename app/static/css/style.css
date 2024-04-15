@@ -1,0 +1,22 @@
+.About {
+
+    text-align: center;
+}
+
+#Background {
+
+    text-align: right;
+    background-color: blue;
+}
+
+img {
+
+    width: 350px;
+    height: 350px;
+    margin: 20px;
+}
+
+.rim {
+
+    text-align: center;
+}
