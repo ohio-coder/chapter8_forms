@@ -1,4 +1,4 @@
-# Made a basic flask prohect with forms
+# Made a basic flask project with forms
 
 ## what i learned
 
